@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642134650933",
+    "project_id": "skolatab-96996",
+    "storage_bucket": "skolatab-96996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642134650933:android:e6b5c4f52ea59b42be017c",
+        "android_client_info": {
+          "package_name": "com.ecell.skolartab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642134650933-e0oraj3tbqsitor20fmjeiq2g16tuhcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecell.skolartab",
+            "certificate_hash": "ddd88a6c56efb89350cfab84c94a466429527019"
+          }
+        },
+        {
+          "client_id": "642134650933-b43peg76lm5hvfasu8t8brrdj9g5a211.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXc5sHqgqht2RQt6HUBjO4_b6jvj1R5CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642134650933-b43peg76lm5hvfasu8t8brrdj9g5a211.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
